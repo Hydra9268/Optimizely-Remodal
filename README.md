@@ -32,3 +32,13 @@ How fast in milliseconds for listener to check DOM for existance of PC modal. Th
 `THEEND`
 
 When to completely terminate the script.
+
+#### Files
+
+`optimizely-remodal.js`
+
+Developer version with full comments and console.log output
+
+`optimizely-remodal.min.js`
+
+Minified and compressed; no comments and console.log output
