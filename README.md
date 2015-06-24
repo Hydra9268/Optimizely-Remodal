@@ -6,7 +6,7 @@ This script lets Optimizely users make A/B adjustments to their modal content ba
 
 **Note: Due to Optimizely's automatic A/B switching this script won't work on multi-step modals.**
 
-For example a visitor comes to a site. Optimizely routes them to the `Test B variant` modal and messaging. From the modal the visitor inserts their email address. They visit Gmail and click on the confirmation link. On their return visit Optimizely automatically routes them over to the `Test A variant` modal and messaging. The visitor is then greeted with a completely different message. This effectively breaks the A/B test. So it's to implement the script on singular modal, or "Step 1" if a modal happens to have multiple steps.
+For example a visitor comes to a site. Optimizely routes them to the `Test B variant` modal and messaging. From the modal the visitor inserts their email address. They visit Gmail and click on the confirmation link. On their return visit Optimizely automatically routes them over to the `Test A variant` modal and messaging. The visitor is then greeted with a completely different message. This effectively breaks the A/B test. I recommend implementing this script on singular modals, or "Step 1" if a modal happens to have multiple steps.
 
 #### Use
 
