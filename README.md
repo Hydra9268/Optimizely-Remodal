@@ -14,16 +14,16 @@ Feel free to adjust the following.
 
 `COOKIENAME`
 
-Name of cookie to check
+Name of cookie to check.
 
 `CHECKWAIT`
 
-Wait value (forces jQuery to wait this long in millaseconds before doing anything)
+Forces jQuery to wait this long in milliseconds before doing anything.
 
 `CHECKSPEED`
 
-How fast in milliseconds for OptimizelyPcCheck to check DOM for PC modal
+How fast in milliseconds for listener to check DOM for existance of PC modal.
 
 `THEEND`
 
-When to completely terminate the script
+When to completely terminate the script.
