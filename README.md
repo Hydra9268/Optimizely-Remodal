@@ -2,15 +2,17 @@
 
 #### Purpose
 
-This script lets Optimizely users make A/B adjustments to their modal AJAX-driven content based on certain conditions. For example I want to A/B test *passive* versus *aggressive* AJAX-loaded messaging that appears in a modal on a third page after 10 seconds. Optimizely cannot handle complex A/B tests like these.
+This script lets Optimizely users make A/B adjustments to their modal content based on certain conditions. For example I want to A/B test *passive* versus *aggressive* messaging that appears in a modal on a third page after 10 seconds. Optimizely cannot handle complex A/B tests like these.
 
 **Note: Due to Optimizely's automatic A/B switching this script won't work on multi-step modals.**
 
 For example a visitor comes to a site. Optimizely routes them to the `Test B variant` modal and messaging. From the modal the visitor inserts their email address. They visit Gmail and click on the confirmation link. On their return visit Optimizely automatically routes them over to the `Test A variant` modal and messaging. The visitor is then greeted with a completely different message. This effectively breaks the A/B test. I recommend implementing this script on singular modals, or "Step 1" if a modal happens to have multiple steps.
 
+The script also works with AJAX-driven content. (Lots of stuff going on. :))
+
 #### Use
 
-In order for this script to work a valid cookiename must be found. You can set the cookiename and desired valid.
+In order for this script to work a valid cookiename must be found. You can set the cookiename and desired valid. 
 
 #### Options
 
