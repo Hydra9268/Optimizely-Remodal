@@ -2,7 +2,7 @@
 
 #### Purpose
 
-This script lets Optimizely users make A/B adjustments to their modal content based on certain conditions. For example I want to A/B test *passive* versus *aggressive* messaging that appears in a modal on a third page after 10 seconds based. Optimizely cannot handle complex A/B tests like these.
+This script lets Optimizely users make A/B adjustments to their modal content based on certain conditions. For example I want to A/B test *passive* versus *aggressive* messaging that appears in a modal on a third page after 10 seconds. Optimizely cannot handle complex A/B tests like these.
 
 **Note: Due to Optimizely's automatically A/B test switching this script won't work on multi-step modals.**
 
