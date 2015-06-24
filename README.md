@@ -8,7 +8,7 @@ USE
 In order for this script to work the valid cookiename must be found. You can set the cookiename and desire valid to
 what it should be.
 
-OPTIONS
+## Options
 
 Feel free to adjust the following.
 
