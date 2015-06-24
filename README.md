@@ -1,9 +1,10 @@
-Optimizely A/B Test Adjustments for Modal, Step 1
+## Optimizely A/B Test Adjustments for Modal, Step 1
 
-The purpose of this script is to give Optimizely users the ability to make A/B adjustments to modal content on after
-the modal triggers based on certain condition. For example the modal will appear on a third pages after 10 seconds.
+#### Purpose
 
-USE
+This script lets Optimizely users make A/B adjustments to their modal content after a modal appears based on certain conditions. For example a modal appears on a third webpage after 10 seconds. By itself Optimizely is unable to able A/B tests on stuff like this.
+
+#### Use
 
 In order for this script to work the valid cookiename must be found. You can set the cookiename and desire valid to
 what it should be.
