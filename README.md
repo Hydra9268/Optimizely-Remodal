@@ -15,8 +15,6 @@ what it should be.
 
 #### Options
 
-Available adjustments.
-
 `COOKIENAME`
 
 Name of cookie to check.
