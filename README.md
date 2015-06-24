@@ -15,7 +15,7 @@ what it should be.
 
 #### Options
 
-Feel free to adjust the following.
+Available adjustments.
 
 `COOKIENAME`
 
