@@ -2,7 +2,7 @@
 
 #### Purpose
 
-This script lets Optimizely users make A/B adjustments to their modal content after a modal appears based on certain conditions. For example a modal appears on a third webpage after 10 seconds. By itself Optimizely is unable to able A/B tests on stuff like this.
+This script lets Optimizely users make A/B adjustments to their modal content based on certain conditions. For example I want to A/B test image promotions in a modal that will appear after the third webpage and after 10 seconds based on whether a specific cookie exists. By itself Optimizely is unable to handle these kinds of A/B tests.
 
 #### Use
 
