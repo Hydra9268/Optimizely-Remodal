@@ -1,5 +1,5 @@
 /*!
- * Optimizely A/B Test Adjustments for Remodal, Step 1
+ * Optimizely A/B Test Adjustments for Modal, Step 1
  * https://github.com/Hydra9268
  *
  * Copyright 2015 Ryan Allen
@@ -36,8 +36,7 @@ $(document).ready(function(){
 			var OptimizelyAdjustment = setInterval(function() {
 
 				// BEGIN: Your Optimizely adjustments -------------------
-				$('#remodal-sen').css({ 'display' : 'none' });
-				$('#remodal-sen-mob').css({ 'display' : 'none' });
+				$('.className').css({ 'display' : 'none' });
 				// END: Your Optimizely adjustments ---------------------
 
 				// Kill listener when adjustments have been made
