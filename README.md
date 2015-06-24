@@ -12,12 +12,8 @@ what it should be.
 
 Feel free to adjust the following.
 
-```html
-
 `COOKIENAME`
 Name of cookie to check
-
-```
 
 var CHECKWAIT = 500;			        // Wait value (forces jQuery to wait this long in millaseconds before doing anything)
 var CHECKSPEED = 50;			        // How fast in milla seconds for OptimizelyPcCheck to check DOM for PC modal
