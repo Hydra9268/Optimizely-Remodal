@@ -8,11 +8,15 @@ USE
 In order for this script to work the valid cookiename must be found. You can set the cookiename and desire valid to
 what it should be.
 
-## Options
+#### Options
 
 Feel free to adjust the following.
 
-var COOKIENAME = '[cookiename]';  // Name of cookie to check
+```html
+
+'COOKIENAME'
+Name of cookie to check
+
 var CHECKWAIT = 500;			        // Wait value (forces jQuery to wait this long in millaseconds before doing anything)
 var CHECKSPEED = 50;			        // How fast in milla seconds for OptimizelyPcCheck to check DOM for PC modal
 var THEEND = 500;			            // When to completely terminate this script
