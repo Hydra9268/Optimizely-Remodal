@@ -15,6 +15,8 @@ what it should be.
 
 #### Options
 
+Set the values in the script.
+
 `COOKIENAME`
 
 Name of cookie to check.
