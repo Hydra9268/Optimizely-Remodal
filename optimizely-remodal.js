@@ -26,7 +26,7 @@ $(document).ready(function(){
 		return match ? match[1] : undefined;
 	};
 
-	// Constantly checks webpage every .05 seconds (very fast!) to see if PC modal has triggered
+	// Constantly checks webpage every XXX seconds (very fast!) to see if PC modal has triggered
 	var OptimizelyPcCheck = setInterval(function() {
 
 		// If a specific cookie is set to the desired value
