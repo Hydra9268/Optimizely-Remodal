@@ -10,7 +10,7 @@ For example a visitor comes to a site. Optimizely routes them to the `Test B var
 
 #### Use
 
-In order for this script to work the valid cookiename must be found. You can set the cookiename and desire valid to
+In order for this script to work a valid cookiename must be found. You can set the cookiename and desire valid to
 what it should be.
 
 #### Options
