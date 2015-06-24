@@ -1,5 +1,5 @@
 /*!
- * Optimizely A/B Test Adjustments for Modal, Step 1
+ * Optimizely A/B Test Adjustments for AJAX Modal
  * https://github.com/Hydra9268
  *
  * Copyright 2015 Ryan Allen
