@@ -13,8 +13,8 @@ $(document).ready(function(){
 
 	// Constants
 	var COOKIENAME = '[cookiename]';	// Name of cookie to check
-	var CHECKWAIT = 500;			// Wait value (forces jQuery to wait this long in milliseconds before doing anything)
-	var CHECKSPEED = 50;			// How fast in milliseconds for OptimizelyPcCheck to check DOM for PC modal
+	var CHECKWAIT = 500;			// Forces jQuery to wait this long in milliseconds before doing anything
+	var CHECKSPEED = 50;			// How fast in milliseconds for listener to check DOM for existance of PC modal
 	var THEEND = 500;			// When to completely terminate this script
 	
 	// Variables
