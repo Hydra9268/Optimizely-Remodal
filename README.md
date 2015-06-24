@@ -1,4 +1,4 @@
-## Optimizely A/B Test Adjustments for AJAX Modal, Step 1
+## Optimizely A/B Test Adjustments for AJAX Modal
 
 #### Purpose
 
