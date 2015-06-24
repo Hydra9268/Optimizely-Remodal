@@ -31,7 +31,7 @@ How fast in milliseconds for listener to check DOM for existance of PC modal. Th
 
 `THEEND`
 
-If the cookiename cannot be found this will completely terminate the script.
+If the cookiename cannot be found this will tell how long to wait until completely terminating the script.
 
 #### Files
 
