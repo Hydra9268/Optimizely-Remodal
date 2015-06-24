@@ -14,7 +14,7 @@ Feel free to adjust the following.
 
 ```html
 
-'COOKIENAME'
+`COOKIENAME`
 Name of cookie to check
 
 var CHECKWAIT = 500;			        // Wait value (forces jQuery to wait this long in millaseconds before doing anything)
