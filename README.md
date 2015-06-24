@@ -23,7 +23,7 @@ Name of cookie to check.
 
 `CHECKWAIT`
 
-Forces jQuery to wait this long in milliseconds before doing anything.
+Forces jQuery to wait this long in milliseconds before doing anything. This is important because most modal libraries do not update the DOM until the modal is trigger - either by a click or some other condition. Because of this you'll want to delay jQuery by 0.5-0.75 seconds. This should synchronize the cookiecheck, modal population and jQuery adjustment in sequential order.
 
 `CHECKSPEED`
 
