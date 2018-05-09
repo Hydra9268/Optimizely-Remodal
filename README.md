@@ -4,7 +4,7 @@
 
 This script lets Optimizely users make A/B adjustments to their modal content based on certain conditions. For example, I want to A/B test *passive* versus *aggressive* messaging that appears in a modal on a third page after 10 seconds. Optimizely cannot handle complex A/B tests like these.
 
-**Note: Due to Optimizely's automatic A/B switching this script won't work on multi-step modals.**
+**Note: Due to Optimizely's automatic A/B switching this script won't work on multi-step modals (e.g. signup, confirmation, success).**
 
 For example, when a visitor comes to a site, Optimizely routes them to the `Test B variant` modal and messaging. The visitor inserts their email address. They visit Gmail and click on the confirmation link. On their return visit, Optimizely automatically routes them over to the `Test A variant` modal and showing a different message to the visitor. This process breaks the A/B test. I recommend implementing this script on modals that do not have steps.
 
